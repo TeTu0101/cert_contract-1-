@@ -19,6 +19,7 @@ Which means replacing manual, paper-based processes with a transparent on-chain 
 
 #Contract
 https://stellar.expert/explorer/testnet/tx/93ae88da6b555891cc61150bb7790a3662f12e69c9cdb13afaae4704647c29b7
+https://stellar.expert/explorer/testnet/contract/CCIDOJBI5Z5SBKU7PDCNVTITCU3PTKDW4YXRMUMCHPTZLO3WQZWYKO3P?filter=history
 
     screenshots
     <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/462c334d-4b58-4f29-aeb9-bcabe76418dd" />
